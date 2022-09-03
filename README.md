@@ -1,3 +1,5 @@
+The HrsBot will subscribe websites with the given email it, you will have to put the id in file.py as a class and import it to main.py, after making some changes, we can subscribe people for many spam newsletter. It uses selenium.
+
 In mail bot, it will automatically send a mail on your behalf. It uses SMTP.
 
 PC healthbot will automatically turn your pc off whenever it's cpu usage goes above a certain level, I wanted to make it 
